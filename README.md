@@ -135,8 +135,6 @@ A blood donation platform that compresses the gap between donors and recipients 
 
 </div>
 
-> 💡 **Snake not showing?** See the GitHub Action setup instructions below.
-
 ---
 
 ## `> connect --all`
