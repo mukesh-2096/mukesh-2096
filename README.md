@@ -107,10 +107,6 @@ A blood donation platform that compresses the gap between donors and recipients 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mukesh-2096&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1D9E75&icon_color=1D9E75&ring_color=1D9E75" height="165" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukesh-2096&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1D9E75" height="165" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukesh-2096&theme=tokyonight&hide_border=true&background=0D1117&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75" height="165" />
 
 </div>
