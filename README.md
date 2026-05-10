@@ -34,7 +34,7 @@ const mukesh = {
   alias:      "VDS Mukesh",
   role:       "Full-Stack Developer",
   education:  "UG CSE-SPE (Kalvium) @ The Apollo University",
-  location:   "Hyderabad, India 🇮🇳",
+  location:   "Hyderabad, India",
   focus:      ["Web Applications", "AI Integration", "Real-Time Systems"],
   currently:  "Deepening backend architecture & system design",
   available:  "Internships · Collaborations · Open Source",
@@ -88,9 +88,9 @@ I build scalable web applications and integrate AI to solve problems that actual
 A blood donation platform that compresses the gap between donors and recipients during emergencies — matching by blood group and location from a centralized, reliable system.
 
 **Key Highlights**
-- ⚡ Real-time donor & request management  
-- 📍 Smart matching by blood group & location  
-- 🏥 Centralized and reliable donor data system  
+- ⚡ Real-time donor & request management
+- 📍 Smart matching by blood group & location
+- 🏥 Centralized and reliable donor data system
 
 **Stack** &nbsp;`Next.js` · `TypeScript` · `Tailwind CSS` · `MongoDB`
 
@@ -107,9 +107,47 @@ A blood donation platform that compresses the gap between donors and recipients 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mukesh-2096&theme=tokyonight&hide_border=true&background=0D1117&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=mukesh-2096&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1D9E75&icon_color=1D9E75&include_all_commits=true&count_private=true" height="165" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukesh-2096&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1D9E75" height="165" />
 
 </div>
+
+---
+
+## `> streak --graph`
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=mukesh-2096&theme=tokyonight&hide_border=true&background=0D1117&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75&sideLabels=1D9E75&dates=888888&stroke=1D9E75" width="700" />
+
+</div>
+
+---
+
+## `> contributions --graph`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mukesh-2096&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=1D9E75&line=1D9E75&point=5DCAA5&area=true" width="100%" />
+
+</div>
+
+---
+
+## `> contributions --snake` 🐍
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mukesh-2096/mukesh-2096/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mukesh-2096/mukesh-2096/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/mukesh-2096/mukesh-2096/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+> 💡 **Snake not showing?** See the GitHub Action setup instructions below.
 
 ---
 
